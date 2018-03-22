@@ -19,7 +19,7 @@ public class HelloWorldTestCase extends FunctionalTestCase {
 
 	@Override
 	protected String getConfigFile() {
-		return "example.xml";
+		return "playmule_test.xml";
 	}
 
 	@Test
